@@ -1,0 +1,49 @@
+
+body {
+    height: 100%;
+    margin: 0px;
+    padding: px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("img/fundo.png");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    border: 0;
+
+} 
+.nav {
+    
+    color: white;
+    padding: px;
+    text-align: center;
+    font: normal 30px Verdana;
+    position: fixed;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.corpo {
+    padding-top: 20%;
+    padding-left: 10px;
+    outline: 0;
+   
+}
+.quadrotext {
+    outline: 0;
+    border: 0;
+
+}
+.by {
+    font: normal 10px Verdana;
+    
+}
+
+.iframe {
+    height: 700px;
+    border: 0;
+    outline: 0;
+}
+
+
